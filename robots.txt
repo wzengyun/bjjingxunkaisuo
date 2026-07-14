@@ -1,4 +1,4 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 
-Sitemap: https://wzengyun.github.io/bjjingxunkaisuo/sitemap.xml
+Sitemap: https://kaisuo.me/sitemap.xml
