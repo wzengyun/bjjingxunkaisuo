@@ -101,5 +101,18 @@ https://wzengyun.github.io/bjjingxunkaisuo/posts/hangtianqiao.html
 - `xiaohongshu.md` — 小红书笔记文案（15篇）
 - `baidu-knowledge.md` — 百度知道问答模板（20组）
 - `baidu-tieba.md` — 百度贴吧发帖模板（10篇）
-- `map-registration.md` — 🆕 地图标注完整指南（16区地址+五平台模板）
+- `map-registration.md` — 地图标注完整指南（16区地址+五平台模板）
+- `baidu-verification.md` — 🆕 百度搜索资源平台验证操作指南
+- `print-template.html` — 🆕 A4门头照片打印模板（浏览器打开→打印→拍照→上传地图平台）
 - `other-channels.md` — 闲鱼/公众号/搜索引擎收录/执行计划表
+
+## 🌐 网站页面结构
+
+| 页面 | 路径 | 说明 |
+|------|------|------|
+| 主页 | `index.html` | 公司介绍+服务+覆盖区域+40篇文章入口 |
+| 文章列表页 | `articles.html` | 🆕 独立SEO文章专区，按分类展示全部40篇 |
+| 区域文章 | `posts/*.html` | 40篇独立SEO文章页 |
+| 站点地图 | `sitemap.xml` | 42个URL，供搜索引擎抓取 |
+| robots协议 | `robots.txt` | 🆕 搜索引擎爬虫指引 |
+| 打印模板 | `promotion/print-template.html` | 🆕 A4门头照片打印 |
