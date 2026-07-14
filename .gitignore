@@ -1,5 +1,6 @@
 # 北京京迅开锁 - 官网源码
 # 部署到 GitHub Pages 的网站文件
 posts/generate_articles.py
+posts/generate_articles_v2.py
 .workbuddy/
 
