@@ -1,0 +1,193 @@
+- generic [ref=f5e2]:
+  - generic [ref=f5e3]:
+    - generic [ref=f5e5]:
+      - link [ref=f5e7] [cursor=pointer]:
+        - /url: /
+        - img "logo" [ref=f5e8]
+      - list [ref=f5e10] [cursor=pointer]:
+        - listitem [ref=f5e11]:
+          - link "搜索学堂" [ref=f5e12]:
+            - /url: /college#/type=1&cate=newcontent
+        - listitem [ref=f5e13]:
+          - link "搜索服务" [ref=f5e14]:
+            - /url: /dashboard/index
+        - listitem [ref=f5e15]: 互动交流
+        - listitem [ref=f5e16]:
+          - link "资源合作" [ref=f5e17]:
+            - /url: /cooperateresource/index
+        - listitem [ref=f5e18]:
+          - link "用户中心" [ref=f5e19]:
+            - /url: /site/index
+      - link "登录" [ref=f5e21] [cursor=pointer]:
+        - /url: https://ziyuan.baidu.com/login/index?u=/?castk=LTE%3D
+    - list [ref=f5e22]:
+      - link "" [ref=f5e23] [cursor=pointer]:
+        - /url: https://zhiqiu.baidu.com/imcswebchat/roulette/in?id=16606&token=i7mdgusjlsnblnfm10iehei4cs56v5p4&domainID=zhanzhang&type=2
+        - listitem [ref=f5e24]:
+          - generic [ref=f5e25]: 
+      - link "" [ref=f5e26] [cursor=pointer]:
+        - /url: /feedback/index
+        - listitem [ref=f5e27]:
+          - generic [ref=f5e28]: 
+      - link:
+        - /url: "#top"
+        - text: 
+    - generic [ref=f5e30]:
+      - link [ref=f5e32] [cursor=pointer]:
+        - /url: https://e.baidu.com/link/1/?refer=1906
+      - generic:
+        - link:
+          - /url: https://ziyuan.baidu.com/doc/index
+      - generic:
+        - link:
+          - /url: https://agents.baidu.com/
+      - generic:
+        - link:
+          - /url: https://ziyuan.baidu.com/vip/index
+      - generic:
+        - link:
+          - /url: https://ziyuan.baidu.com/college/articleinfo?id=3528
+      - generic:
+        - link:
+          - /url: https://ziyuan.baidu.com/college/documentinfo?id=3484
+      - generic:
+        - link:
+          - /url: https://zy.baidu.com/act/guide?isResponsible=1
+      - generic:
+        - link:
+          - /url: https://zy.baidu.com/act/seo?isResponsible=1
+      - generic:
+        - link:
+          - /url: https://ziyuan.baidu.com/api/sso/url?plat=bce&url=https://console.bce.baidu.com/waf/%23/waf/instance/create/activity
+  - generic [ref=f5e45]:
+    - link "【紧急公告】华为鸿蒙手机访问百度APP的适配解决建议" [ref=f5e46] [cursor=pointer]:
+      - /url: https://ziyuan.baidu.com/wiki/3562
+    - link "[2025-11-18]移动端搜索结果展现及更新LOGO尺寸公告" [ref=f5e47] [cursor=pointer]:
+      - /url: https://ziyuan.baidu.com/wiki/3561
+    - link "[2023-9-22] 关于回收网站资源提交配额的通知" [ref=f5e48] [cursor=pointer]:
+      - /url: https://ziyuan.baidu.com/wiki/3531
+  - list [ref=f5e50]:
+    - link "平台公告 平台最新动态通知" [ref=f5e51] [cursor=pointer]:
+      - /url: https://ziyuan.baidu.com/wiki/7
+      - listitem [ref=f5e52]:
+        - generic [ref=f5e54]:
+          - generic [ref=f5e55]: 平台公告
+          - generic [ref=f5e56]: 平台最新动态通知
+    - link "站长论坛 开发者搜索优化交流平台" [ref=f5e57] [cursor=pointer]:
+      - /url: http://bbs.zhanzhang.baidu.com/
+      - listitem [ref=f5e58]:
+        - generic [ref=f5e60]:
+          - generic [ref=f5e61]: 站长论坛
+          - generic [ref=f5e62]: 开发者搜索优化交流平台
+    - link "反馈中心 网站问题快速反馈" [ref=f5e63] [cursor=pointer]:
+      - /url: /feedback/index
+      - listitem [ref=f5e64]:
+        - generic [ref=f5e66]:
+          - generic [ref=f5e67]: 反馈中心
+          - generic [ref=f5e68]: 网站问题快速反馈
+  - generic [ref=f5e69]:
+    - generic [ref=f5e70]: 网站支持
+    - generic [ref=f5e71]: 权威数据及工具支持，深入了解网站动态
+    - list [ref=f5e72]:
+      - listitem [ref=f5e73]:
+        - generic [ref=f5e74]:
+          - img "资源提交" [ref=f5e75]
+          - generic [ref=f5e76]: 
+          - generic [ref=f5e77]: 资源提交
+          - generic [ref=f5e78]: 主动提交数据，优化收录流程
+      - listitem [ref=f5e79]:
+        - generic [ref=f5e80]:
+          - img "数据统计" [ref=f5e81]
+          - img "数据统计" [ref=f5e82]
+          - generic [ref=f5e83]: 数据统计
+          - generic [ref=f5e84]: 数据可视化分析， 及时发现问题
+      - listitem [ref=f5e85]:
+        - generic [ref=f5e86]:
+          - img "搜索展现" [ref=f5e87]
+          - generic [ref=f5e88]: 
+          - generic [ref=f5e89]: 搜索展现
+          - generic [ref=f5e90]: 搜索前端展现，自主定义选择
+      - listitem [ref=f5e91]:
+        - generic [ref=f5e92]:
+          - img "优化与维护" [ref=f5e93]
+          - generic [ref=f5e94]: 
+          - generic [ref=f5e95]: 优化与维护
+          - generic [ref=f5e96]: 助力网站优化，打造优质站点
+  - generic [ref=f5e97]:
+    - generic [ref=f5e98]: 搜索学堂
+    - generic [ref=f5e99]: 分享搜索智慧，开创共赢未来
+    - list [ref=f5e100]:
+      - listitem [ref=f5e101]:
+        - link "载体优化 载体优化" [ref=f5e102] [cursor=pointer]:
+          - /url: /college#/type=6&cate=develop
+          - generic [ref=f5e103]:
+            - img "载体优化" [ref=f5e104]
+            - generic [ref=f5e105]: 载体优化
+      - listitem [ref=f5e106]:
+        - link "工具解读 工具解读" [ref=f5e107] [cursor=pointer]:
+          - /url: /college#/type=3&cate=dailysubmit
+          - generic [ref=f5e108]:
+            - img "工具解读" [ref=f5e109]
+            - generic [ref=f5e110]: 工具解读
+      - listitem [ref=f5e111]:
+        - link "搜索规范 搜索规范" [ref=f5e112] [cursor=pointer]:
+          - /url: /college#/type=4&cate=guides
+          - generic [ref=f5e113]:
+            - img "搜索规范" [ref=f5e114]
+            - generic [ref=f5e115]: 搜索规范
+    - generic [ref=f5e116]:
+      - link "百度移动搜索建站优化白皮书" [ref=f5e117] [cursor=pointer]:
+        - /url: /college/documentinfo?id=1689
+      - link "平台工具使用帮助" [ref=f5e118] [cursor=pointer]:
+        - /url: /college/courseinfo?id=267
+      - link "百度搜索算法规范详解" [ref=f5e119] [cursor=pointer]:
+        - /url: /college/documentinfo?id=2988
+      - link "百度智能小程序搜索优化指南（基础版）" [ref=f5e120] [cursor=pointer]:
+        - /url: https://ziyuan.baidu.com/college/documentinfo?id=3050
+      - link "搜索常见问题解决指南" [ref=f5e121] [cursor=pointer]:
+        - /url: https://ziyuan.baidu.com/college/articleinfo?id=3102
+      - link "百度APP移动搜索落地页体验白皮书5.0" [ref=f5e122] [cursor=pointer]:
+        - /url: " https://ziyuan.baidu.com/college/documentinfo?id=2925"
+  - generic [ref=f5e123]:
+    - generic [ref=f5e124]: 互动交流
+    - generic [ref=f5e125]: 洞悉搜索趋势，直面百度专家，共商搜索未来
+    - generic [ref=f5e126]:
+      - link [ref=f5e127] [cursor=pointer]:
+        - /url: /vipevent/detail?id=102
+        - paragraph [ref=f5e132]: 学习｜实践｜连接未来
+      - link [ref=f5e133] [cursor=pointer]:
+        - /url: /vipevent/detail?id=108
+        - paragraph [ref=f5e138]: 搜索 | 服务 | 内测 | 活动
+      - link [ref=f5e139] [cursor=pointer]:
+        - /url: /vipevent/detail?id=109
+        - paragraph [ref=f5e144]: 百度搜索违规低质页面问题说明
+  - list
+  - generic [ref=f5e145]:
+    - generic [ref=f5e147]:
+      - link "智能小程序" [ref=f5e148] [cursor=pointer]:
+        - /url: https://smartprogram.baidu.com/developer/index.html
+      - link "投诉平台" [ref=f5e149] [cursor=pointer]:
+        - /url: //help.baidu.com/newadd?prod_id=1&category=1
+      - link "百度统计" [ref=f5e150] [cursor=pointer]:
+        - /url: https://tongji.baidu.com/web/welcome/login
+      - link "百度智能云" [ref=f5e151] [cursor=pointer]:
+        - /url: https://cloud.baidu.com/
+      - link "百度云加速" [ref=f5e152] [cursor=pointer]:
+        - /url: https://su.baidu.com/
+      - link "百度安全" [ref=f5e153] [cursor=pointer]:
+        - /url: http://anquan.baidu.com/
+      - link "百度大脑" [ref=f5e154] [cursor=pointer]:
+        - /url: https://ai.baidu.com/
+      - link "百度保障" [ref=f5e155] [cursor=pointer]:
+        - /url: https://baozhang.baidu.com/guarantee/?from=ziyuan
+      - link "百度开发者中心" [ref=f5e156] [cursor=pointer]:
+        - /url: https://developer.baidu.com/?hmsr=站长平台&hmpl=&hmcu=&hmkw=&hmci
+      - link "联系我们" [ref=f5e157] [cursor=pointer]:
+        - /url: //ziyuan.baidu.com/college/articleinfo?id=2114
+      - link "微信公众号" [ref=f5e158] [cursor=pointer]:
+        - /url: //ziyuan.baidu.com/wiki/3148
+    - generic [ref=f5e159]:
+      - text: ©2026 Baidu
+      - link "使用百度前必读" [ref=f5e160] [cursor=pointer]:
+        - /url: https://www.baidu.com/duty/
+      - text: 京ICP证030173号
